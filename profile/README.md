@@ -1,8 +1,12 @@
 ## McModuleStudio
 ![java](https://img.shields.io/badge/-java-blue?style=for-the-badge&logo=java&logoColor=white)
+<!--
 ![Kotlin](https://img.shields.io/badge/-kotlin-blue?style=for-the-badge&logo=kotlin&logoColor=white)
+-->
 ![JS](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white)
+<!--
 ![CS](https://img.shields.io/badge/-CS-blue?style=for-the-badge&logo=.NET&logoColor=white)
+-->
 
 ### [Official Website](http://www.mcmodule.org)
 
